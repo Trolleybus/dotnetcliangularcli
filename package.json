@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "fs": "0.0.1-security",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-batch": "^1.0.5",
     "gulp-exec": "^2.1.3",
